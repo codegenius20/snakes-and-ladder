@@ -1,1 +1,1 @@
-# snakes-and-ladder
+Created a snakes and ladder game in python programing language.The game shows the movement of the players in the snakes and ladder board with the multiplayer option .The game was made by incorporating the Tkinter library of the python.
